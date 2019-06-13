@@ -7,3 +7,4 @@ blue
 green
 yellow
 red
+this is color of rainbow
