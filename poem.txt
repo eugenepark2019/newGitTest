@@ -3,8 +3,11 @@ The Rainbow
 purple
 pink 
 orange
+unicorn
 blue
 green
 yellow
+unicorn
 red
 this is color of rainbow
+unicorn
